@@ -25,3 +25,4 @@ dist-ssr
 /.vs/myTimerProject/FileContentIndex/407d0148-f268-4a0b-a0fd-eedf309548bd.vsidx
 /.vs/myTimerProject/FileContentIndex/292b7a3a-8fc6-4179-a6ff-49de9ba03f49.vsidx
 /src/assets/react.svg
+/vite.config.js
